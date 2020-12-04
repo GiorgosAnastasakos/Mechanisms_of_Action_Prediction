@@ -1,5 +1,5 @@
-# Mechanisms_of_Action_Prediction
-Classify drugs based on their biological activity
+# Mechanisms_of_Action_Prediction with Keras
+Classify drugs based on their biological activity using Deep Networks (Keras)
 
 https://www.kaggle.com/c/lish-moa
 
